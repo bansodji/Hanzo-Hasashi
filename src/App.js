@@ -1,5 +1,5 @@
 import React from 'react';
-import { Routes, Route } from 'react-router-dom';
+// import { Routes, Route } from 'react-router-dom';
 import Header from './Layouts/Header';
 import Home from './Pages/Home';
 import "./App.scss";
@@ -9,10 +9,11 @@ const App = () => {
   return (
     <>
       <Header />
-      <Routes>
+      <Home />
+      {/* <Routes>
         <Route exact path="/" element={<Home />} />
         <Route exact path="/Hanzo-Hasashi/" element={<Home />} />
-      </Routes>
+      </Routes> */}
       <footer className=' bg-3 pt-5 pb-4 fff overflow-hidden'>
         <Footer />
       </footer>
