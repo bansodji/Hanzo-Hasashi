@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Hanzo-Hasashi/static/css/main.5fd93b07.css",
-    "main.js": "/Hanzo-Hasashi/static/js/main.3e439ecd.js",
+    "main.js": "/Hanzo-Hasashi/static/js/main.39c86a99.js",
     "static/js/787.3bb06b94.chunk.js": "/Hanzo-Hasashi/static/js/787.3bb06b94.chunk.js",
     "static/media/goku-zeno.jpg": "/Hanzo-Hasashi/static/media/goku-zeno.c4dd5b62c607c02dec85.jpg",
     "static/media/ssj-god.png": "/Hanzo-Hasashi/static/media/ssj-god.ab771f5de3ec47ab32bd.png",
@@ -34,11 +34,11 @@
     "static/media/instanttransmission.webp": "/Hanzo-Hasashi/static/media/instanttransmission.3d71c98d35c5a3b37f00.webp",
     "index.html": "/Hanzo-Hasashi/index.html",
     "main.5fd93b07.css.map": "/Hanzo-Hasashi/static/css/main.5fd93b07.css.map",
-    "main.3e439ecd.js.map": "/Hanzo-Hasashi/static/js/main.3e439ecd.js.map",
+    "main.39c86a99.js.map": "/Hanzo-Hasashi/static/js/main.39c86a99.js.map",
     "787.3bb06b94.chunk.js.map": "/Hanzo-Hasashi/static/js/787.3bb06b94.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5fd93b07.css",
-    "static/js/main.3e439ecd.js"
+    "static/js/main.39c86a99.js"
   ]
 }
